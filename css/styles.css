@@ -1,0 +1,75 @@
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;
+    font-family:merriweather;
+    font-size: 200%;
+}
+h1{
+    margin: 50px auto 0 auto;
+    font-size: 3.625rem;
+    font-family: sacramento;
+    color: #002B5B;
+}
+.web{
+    color: #159895;
+}
+h2{
+    color:#57C5B6;
+}
+h3{
+    color: #5fc1e8;
+}
+.top-container{
+    position: relative;
+    padding-top: 100px;
+    background-color: #57C5B6;
+}
+
+
+.top-cloud{
+    position: absolute;
+    right: 180px;
+    top: 50px;
+
+}
+.bottom-cloud{
+    position: absolute;
+    left: 180px;
+    bottom: 300px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.profile-image{
+    width: 15%;
+    margin-top: 50px;
+
+}
+.image1{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.image2{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.image3{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+hr{
+    border-style: none;
+    border-top: dotted;
+    border-width: 20px;
+    border-color: #002B5B;
+    width: 10%;
+
+}
